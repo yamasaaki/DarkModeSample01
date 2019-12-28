@@ -15,6 +15,7 @@ class SecondViewController: UIViewController {
 
         // 背景色設定
         self.view.backgroundColor = UIColor.background
+        
     }
 
 }

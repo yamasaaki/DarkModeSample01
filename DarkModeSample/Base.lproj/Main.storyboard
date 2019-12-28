@@ -43,9 +43,9 @@
         <!--Second View Controller-->
         <scene sceneID="Ary-mA-U3b">
             <objects>
-                <viewController id="Yqe-jY-2eU" customClass="SecondViewController" customModule="DarkModeSample" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController storyboardIdentifier="Second" modalPresentationStyle="fullScreen" id="Yqe-jY-2eU" customClass="SecondViewController" customModule="DarkModeSample" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="mnG-7e-CIx">
-                        <rect key="frame" x="0.0" y="0.0" width="414" height="842"/>
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
                         <viewLayoutGuide key="safeArea" id="MYR-IJ-DJq"/>
